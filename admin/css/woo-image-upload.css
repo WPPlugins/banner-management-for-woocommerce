@@ -1,0 +1,226 @@
+img.cat_banner_img_admin {
+    width: 170px;
+    height: auto;
+   
+}
+img.wbm_shop_page_cat_banner_img_admin {
+    width: 18%;
+    margin-top: 1%;
+}
+
+body {position:relative;z-index:0;}
+.main:before {width:100%;height:100%;position:absolute;top:0px;left:0px;z-index:-1;content:'';}
+.site-header-wrap {margin-bottom:60px;border-bottom:1px solid #cd9ad6;}
+.accordion, .accordion * {-webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box;}
+.accordion {overflow:hidden; border-radius:3px;}
+.accordion-section-title {width:100%;padding:6px;padding-left: 20px;display:inline-block;background:#ffffff;transition:all linear 0.15s;/* Type */font-size:1.200em; color:#000; border: 0px;}
+.accordion-section-title.active, .accordion-section-title:hover {background:#FFF;/* Type */text-decoration:none;color:#000;}
+.accordion-section:last-child .accordion-section-title {border-bottom:none;}
+.accordion-section-content {padding:15px;display:none;border-top: 1px solid #ccc;}
+.accordion-section-title {text-decoration: none;}
+.accordion-section .enable-disable {margin-bottom: 15px;}
+/*.accordion {margin-top:15px;}*/
+.accordion-section {margin: 0; margin-bottom: 12px;border: 1px solid #ccc;}
+.set_accordion_classes {width: 100%;}
+.set_accordion_classes .enable-disable {display: inline-block;}
+.set_accordion_classes .accordion-tab-link {float: right;}
+.enble-disable-label {margin-left: 10px;}
+.enble-disable-label .green {color: green;display: inline-block;font-size: 12px;}
+.enble-disable-label .red {color: red;display: inline-block;font-size: 12px;}
+.support-settings-container .main {width: 98%;display: inline-block;}
+.support-settings-container .accordion-section a.accordion-section-title {background: #FFF;padding: 15px 10px; font-size: 15px; font-weight: 600;}
+.crea-container.crea-create-listing-settings .main {width: 98%;display: inline-block;}
+.crea-container.crea-create-listing-settings .accordion-section a.accordion-section-title {background: #FFF;padding: 10px 20px;font-size: 14px;line-height: 20px;box-shadow: none;-webkit-box-shadow: none;-moz-box-shadow: none;}
+
+.woocommerce-banner-managment-setting-content {
+    margin-top: 20px;
+    padding: 30px;
+    width: 92%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+fieldset.wbm_global {
+    border: 1px solid #ccc;
+    padding: 0 2%;
+    margin-bottom: 3%;
+    padding-bottom: 15px; 
+}
+input#save_wbm_shop_page_setting {
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+img.wbm_cart_page_cat_banner_img_admin {
+    width: 24%;
+}
+img.wbm_checkout_page_banner_img_admin {
+    width: 24%;
+}
+img.wbm_thank_you_page_banner_img_admin {
+    width: 24%;
+}
+fieldset.wbm_global .accordion {
+    margin-top: 3%;
+}
+a.accordion-section-title {
+    font-size: 14px;
+    padding: 10px;
+}
+.accordion-section-title .active:after, .control-section .accordion-section-title:after, .nav-menus-php .item-edit:before, .widget-top a.widget-action:after {
+right: 0;
+content: '\f142';
+}
+span.shop_page_status_enable_or_disable {
+    margin-left: 2%;
+}
+.plugin_title_content {
+    margin-bottom: 4%;
+}
+input#shop_page_banner_image_link {
+    width: 43%;
+}
+input#shop_cart_banner_image_link {
+    width: 43%;
+}
+input#shop_checkout_banner_image_link{ 
+	 width: 43%;
+}
+input#shop_thank_you_page_banner_image_link {
+    width: 43%;
+}
+
+.woocommerce-banner-managment-setting-content .plugin_title_content p {
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 1em 0;
+}
+.category_based_settings p {
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 1em 0;
+}
+.wbm_shop_page_enable_open_div .form-table th{ 
+	    padding: 0px 10px 0px 0 !important; 
+}
+.wbm_shop_page_enable_open_div .form-table td{ 
+	    padding: 5px 10px !important;
+}
+.accordion-section-title.active:after {
+    content: '\f142' !important;
+}
+input#wbm_shop_setting_enable {
+    margin-left: 11px;
+}
+.cat_banner_img_admin {
+    margin-top: 1%;
+}
+img.preview_category_page_image {
+    width: 100%;
+}
+label.wbm_leble_setting_css {
+    padding-top: 4px !important;
+    display: inline-block;
+}
+img.add_cat_banner_img_admin {
+    width: 51%;
+    margin-top: 3%;
+}
+
+.free_plugin {
+    margin-bottom: 20px;
+}
+
+.paid_plugin {
+    margin-bottom: 20px;
+}
+
+.paid_plugin h3 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+}
+
+.free_plugin h3 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.plug-containter {
+    width: 100%;
+    display: inline-block;
+    margin-left: 20px;
+}
+.plug-containter .contain-section {
+    width: 25%;
+    display: inline-block;
+    margin-top: 30px;
+}
+.plug-containter .contain-section .contain-img {
+    width: 30%;
+    display: inline-block;
+}
+.plug-containter .contain-section .contain-title {
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+.plug-containter .contain-section .contain-title a {
+    text-decoration: none;
+    line-height: 20px;
+    font-weight: bold;
+}
+.version_logo_img {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+
+.banner_management_for_woocommerce_picture {
+    width: 49%;
+    display: inline-block;
+}
+.banner_management_for_woocommerce_content {
+    float: right;
+    width: 49%;
+    line-height: 30px;
+    top: 5%;
+    
+   
+}
+
+.banner_management_for_woocommerce_picture_entry_content {
+    width: 100%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    height: 309px;
+}
+
+.banner_management_for_woocommerce_content_second { 
+	float: left;
+    width: 49%;
+    line-height: 30px;
+    top: 3%;
+    margin: 3% 0px 0px 0px;
+    display: inline-block;
+}
+.banner_management_for_woocommerce_picture_second { 
+	width: 49%;
+    float: left;
+    margin: 0 0 0 14px;
+}
+
+.banner_management_for_woocommerce_picture_fourth {
+    float: right;
+    width: 48%;
+}
+.banner_management_for_woocommerce_content_fourth {
+    display: inline-block;
+    width: 48%;
+    line-height: 30px;
+    margin: 6% 0 0 0;
+}
+.other_feature {
+    margin-top: 12% !important;
+}
+.banner_management_for_woocommerce_content.third_section {
+    margin: 6% 0 0 0;
+}
